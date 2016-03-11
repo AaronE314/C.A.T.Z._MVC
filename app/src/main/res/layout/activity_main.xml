@@ -28,7 +28,8 @@
         android:columnCount="4"
         android:rowCount="5"
         android:layout_below="@+id/tvDisplay"
-        android:layout_alignParentStart="false">
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false">
 
         <Button
             android:layout_width="wrap_content"
